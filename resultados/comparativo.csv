@@ -1,0 +1,4 @@
+﻿nivel,arquivo,numero_elementos,numero_conjuntos,numero_variaveis,numero_restricoes,quantidade_selecionados,total_incidencias,densidade_percentual,custo_otimo,tempo_segundos,tempo_solver_segundos,melhor_limite,gap_absoluto,gap_relativo,nos_branch_and_bound,iteracoes_simplex,status,solver
+Fácil,facil_scp41.txt,200,1000,1000,200,66,4009,2.0045,429.0,0.079765800000132,0.07948994636535645,,,,1,136,Optimal,HiGHS
+Média,media_scpa1.txt,300,3000,3000,300,67,18091,2.010111,253.0,3.5989245000000665,3.597503423690796,,,,1,13580,Optimal,HiGHS
+Difícil,dificil_scpnre1.txt,500,5000,5000,500,27,249448,9.97792,29.0,134.35319019999952,134.35226011276245,,,,20215,1108133,Optimal,HiGHS

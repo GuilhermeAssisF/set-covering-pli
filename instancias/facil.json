@@ -1,0 +1,86 @@
+{
+  "nome": "Instância Fácil - Exemplo Inicial",
+  "elementos": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "conjuntos": [
+    {
+      "id": "S1",
+      "custo": 8,
+      "cobre": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "S2",
+      "custo": 6,
+      "cobre": [
+        2,
+        4
+      ]
+    },
+    {
+      "id": "S3",
+      "custo": 7,
+      "cobre": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "id": "S4",
+      "custo": 5,
+      "cobre": [
+        1,
+        4,
+        7
+      ]
+    },
+    {
+      "id": "S5",
+      "custo": 9,
+      "cobre": [
+        5,
+        7,
+        8
+      ]
+    },
+    {
+      "id": "S6",
+      "custo": 4,
+      "cobre": [
+        6,
+        8
+      ]
+    },
+    {
+      "id": "S7",
+      "custo": 11,
+      "cobre": [
+        2,
+        5,
+        7
+      ]
+    },
+    {
+      "id": "S8",
+      "custo": 10,
+      "cobre": [
+        3,
+        4,
+        6,
+        8
+      ]
+    }
+  ]
+}
